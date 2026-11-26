@@ -1,0 +1,40 @@
+variable,question
+q0,Timestamp
+q2,Age (optional)
+q3,Gender (optional)
+q4,Profession
+q5,Village - District - State
+q6,Are you aware of all the necessary land documents?
+q7,Which of the following land documents are you aware of?  
+q8,Are you aware about SVAMITVA Scheme?
+q9,Has the Government conducted SVAMITVA in your village?
+q10,What is the role of the Gram Panchayat in issuing of the SVAMITVA card? 
+q11,What is the role of the Revenue Officer in issuing of the SVAMITVA card? 
+q12,Were you satisfied with the assistance of the Gram Panchayat and other government officials in the whole process?
+q13,What is the role of the drone in issuing of the SVAMITVA card? 
+q14,Did you face any problems during the drone survey of your property?
+q15,"Post-survey, have you received the Sanad and SVAMITVA property card? "
+q16,Did you face any problems in receiving your SVAMITVA property card? 
+q17,What kind of problems did you face while collecting your SVAMITVA property card?
+q18,Did people who have property but don’t live in the village face any problems during the whole process of drone survey? 
+q19,Do you think the SVAMITVA card has the same importance as the previous land documents for eg. 8A and 7-12 extract? 
+q20,Do you think the Sanad has the same importance as 8A and 7-12 extract?
+q21,Did you apply for a 7-12 extract after getting the Sanad and SVAMITVA card?
+q22,Does your property card show your property area similar to the 7-12 extract? 
+q23,Does anybody in your village have any issue with the difference in property area between the property card and 7-12 extract?
+q24,Has the SVAMITVA scheme made any difference in your village and specifically your housing or allied matters? 
+q25,Which of these documents are more important than the other –
+q26,Is it easier to get the property card issued as compared to 7-12 extract? 
+q27,Has the SVAMITVA card made a difference compared to 8A? 
+q28,Did you face any resistance or objection from neighbors while making changes to your home after receiving SVAMITVA property card? 
+q29,What kind of resistance or objection did you face from neighbors?
+q30,Did the property card reduce boundary disputes between the neighbors in your village? 
+q31,Have you availed loans by submitting your 7-12 extract in banks? 
+q32,Does the bank accept the property card instead of the 7-12 extract for loans? 
+q33,Why does the bank not accept the property card for loans? 
+q34,Has the SVAMITVA scheme and issuing of the property card added any advantage for the villagers?
+q35,Would you prefer to use the property card or the previous documents extract in the future?
+q36,Would you like to use new digital schemes like SVAMITVA?
+q37,Why would you prefer schemes like SVAMITVA?
+q38,Why would you NOT prefer schemes like SVAMITVA?
+q39,Any comments about such new digital schemes like SVAMITVA?
